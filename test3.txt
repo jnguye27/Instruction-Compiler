@@ -1,0 +1,9 @@
+1 int a 
+3 int b
+5 begin
+10 set a 10
+12 div a 2
+15 set b 2
+40 if a gte b
+50   print a b a==b
+100 end
