@@ -1,6 +1,6 @@
 # Instructions
 Description:  
-Reads the given input file instructions and calculates the data.  
+Reads, parses, and runs the given input file instructions.
   
 To compile:  
 make  
